@@ -1,0 +1,17 @@
+# Maxfiy kalitlar va ma'lumotlar (eng muhimi!)
+.env
+data/secret.key
+data/passwords.json
+
+# Virtual muhit (keraksiz fayllar juda ko'p)
+.venv/
+.venv4/
+venv/
+env/
+
+# PyCharm sozlamalari fayllari
+.idea/
+
+# Python kesh
+__pycache__/
+*.py[cod]
